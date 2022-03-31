@@ -1,1 +1,1 @@
-a script that print the effective username
+a script that print all the groups
