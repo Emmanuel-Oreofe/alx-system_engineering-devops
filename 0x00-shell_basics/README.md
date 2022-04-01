@@ -1,1 +1,1 @@
-display content list of your directory
+script that changes to home directory
