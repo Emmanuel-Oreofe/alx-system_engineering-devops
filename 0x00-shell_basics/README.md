@@ -1,1 +1,1 @@
-script that prints absolute path name
+display content list of your directory
