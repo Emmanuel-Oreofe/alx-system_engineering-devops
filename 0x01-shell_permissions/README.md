@@ -1,1 +1,1 @@
-a script that creates a directory with permissions
+a script that change the group owner
