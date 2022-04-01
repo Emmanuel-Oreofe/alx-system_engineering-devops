@@ -1,1 +1,1 @@
-a script that add execution permissions to everybody
+a scripts that sets the mode of the file
