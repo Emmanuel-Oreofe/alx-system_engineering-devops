@@ -1,1 +1,1 @@
-a script that execute permissions to all subdirectories
+a script that creates a directory with permissions
