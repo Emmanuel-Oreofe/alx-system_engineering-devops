@@ -1,1 +1,1 @@
- a script that add execute permissions
+a script that add execution permissions to everybody
