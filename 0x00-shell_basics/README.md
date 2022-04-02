@@ -1,1 +1,1 @@
-display current directory content numerically 
+script that create a new directorys
