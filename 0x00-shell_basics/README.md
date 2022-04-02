@@ -1,1 +1,1 @@
-life is a series of commas
+create a magic file
