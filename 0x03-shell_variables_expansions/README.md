@@ -1,1 +1,1 @@
-prints result of addition
+print the result of power
