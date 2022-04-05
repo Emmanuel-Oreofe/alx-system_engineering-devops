@@ -1,1 +1,1 @@
-script that count the number of directories
+list environment variables
