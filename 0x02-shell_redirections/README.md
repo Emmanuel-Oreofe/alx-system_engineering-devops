@@ -1,1 +1,1 @@
-delete files
+count directories
