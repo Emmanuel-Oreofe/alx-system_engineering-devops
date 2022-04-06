@@ -1,1 +1,1 @@
-number of lines
+lines containing the pattern
