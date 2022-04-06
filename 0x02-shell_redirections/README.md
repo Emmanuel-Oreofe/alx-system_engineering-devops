@@ -1,1 +1,1 @@
-creates a file
+display contents of two files
