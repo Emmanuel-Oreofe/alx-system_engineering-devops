@@ -1,1 +1,1 @@
-all lines of the file
+replace all characters
