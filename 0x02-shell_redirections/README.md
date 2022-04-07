@@ -1,1 +1,1 @@
-all files with a gif extension
+acrostic is a poem
