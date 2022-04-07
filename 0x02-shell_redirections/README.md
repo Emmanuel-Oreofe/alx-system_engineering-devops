@@ -1,1 +1,1 @@
-without C
+reverse its input
