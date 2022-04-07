@@ -1,1 +1,1 @@
-replace all characters
+without C
